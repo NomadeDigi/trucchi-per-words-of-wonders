@@ -1,6 +1,6 @@
 // dateUtils.js
 // Utility functions for date formatting and calculations
-// Author: [TuoNome] - For educational purposes only
+// For educational purposes only
 
 const DateUtils = {
   // Returns current date in YYYY-MM-DD format
